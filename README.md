@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Heer972005/leetcode_final/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Heer972005/leetcode_final/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
