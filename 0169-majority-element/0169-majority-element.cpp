@@ -1,37 +1,36 @@
 class Solution {
 public:
-    int countInRange(vector<int>& nums, int num, int lo, int hi) {
-        int count = 0;
-        for (int i = lo; i <= hi; i++) {
-            if (nums[i] == num)
-                count++;
-        }
-        return count;
-    }
-
-    int majorityElementRec(vector<int>& nums, int lo, int hi) {
+    int helper(vector<int>& nums, int start, int end) {
         // Base case
-        if (lo == hi)
-            return nums[lo];
+        if (start == end) {
+            return nums[start];
+        }
 
-        // Recursive calls
-        int mid = lo + (hi - lo) / 2;
+        int mid = start + (end - start) / 2;
 
-        int left = majorityElementRec(nums, lo, mid);
-        int right = majorityElementRec(nums, mid + 1, hi);
+        int left = helper(nums, start, mid);
+        int right = helper(nums, mid + 1, end);
 
         // If both halves agree
-        if (left == right)
+        if (left == right) {
             return left;
+        }
 
-        // Count occurrences of both candidates in current range
-        int leftCount = countInRange(nums, left, lo, hi);
-        int rightCount = countInRange(nums, right, lo, hi);
+        // Count occurrences of both candidates
+        int lcount = 0, rcount = 0;
 
-        return (leftCount > rightCount) ? left : right;
+        for (int i = start; i <= end; i++) {
+            if (nums[i] == left) {
+                lcount++;
+            } else if (nums[i] == right) {
+                rcount++;
+            }
+        }
+
+        return (lcount > rcount) ? left : right;
     }
 
     int majorityElement(vector<int>& nums) {
-        return majorityElementRec(nums, 0, nums.size() - 1);
+        return helper(nums, 0, nums.size() - 1);
     }
 };
