@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/Heer972005/leetcode_final/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
