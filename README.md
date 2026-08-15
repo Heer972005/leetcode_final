@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Heer972005/leetcode_final/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Heer972005/leetcode_final/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
+| [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Heer972005/leetcode_final/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Heer972005/leetcode_final/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
