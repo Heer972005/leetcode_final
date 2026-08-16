@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/Heer972005/leetcode_final/tree/master/0485-max-consecutive-ones) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Heer972005/leetcode_final/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Heer972005/leetcode_final/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
