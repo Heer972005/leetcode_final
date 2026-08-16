@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
+| [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
+| [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
+| [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 ## Simulation
 |  |
 | ------- |
