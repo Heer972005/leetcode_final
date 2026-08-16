@@ -13,23 +13,16 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        unordered_map<int, int> index;
-        for (int i = 0; i < inorder.size(); i++) {
-            index[inorder[i]] = i;
-        }
-        return buildTreeHelper(inorder, postorder, 0, inorder.size() - 1, 0, postorder.size() - 1, index);
+        int n = size(inorder), postIdx = n-1;
+        return build(inorder, postorder, 0, n-1, postIdx);
     }
-    
-    TreeNode* buildTreeHelper(vector<int>& inorder, vector<int>& postorder, int inorderStart, int inorderEnd, int postorderStart, int postorderEnd, unordered_map<int, int>& index) {
-        if (inorderStart > inorderEnd || postorderStart > postorderEnd) {
-            return nullptr;
-        }
-        int rootVal = postorder[postorderEnd];
-        TreeNode* root = new TreeNode(rootVal);
-        int inorderRootIndex = index[rootVal];
-        int leftSubtreeSize = inorderRootIndex - inorderStart;
-        root->left = buildTreeHelper(inorder, postorder, inorderStart, inorderRootIndex - 1, postorderStart, postorderStart + leftSubtreeSize - 1, index);
-        root->right = buildTreeHelper(inorder, postorder, inorderRootIndex + 1, inorderEnd, postorderStart + leftSubtreeSize, postorderEnd - 1, index);
+
+    TreeNode* build(vector<int>& in, vector<int>& post, int inStart, int inEnd, int& postIdx) {
+        if(inStart > inEnd) return nullptr;
+        TreeNode* root = new TreeNode(post[postIdx--]);
+        int inIdx = find(begin(in), end(in), root -> val) - begin(in);
+        root -> right = build(in, post, inIdx+1, inEnd, postIdx);
+        root -> left  = build(in, post, inStart, inIdx-1, postIdx);
         return root;
     }
 };
