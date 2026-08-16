@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/Heer972005/leetcode_final/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Heer972005/leetcode_final/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Heer972005/leetcode_final/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -148,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
