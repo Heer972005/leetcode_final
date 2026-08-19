@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Heer972005/leetcode_final/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
 ## Hash Table
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
