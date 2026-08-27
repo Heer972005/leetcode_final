@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Heer972005/leetcode_final/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Heer972005/leetcode_final/tree/master/0654-maximum-binary-tree) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
