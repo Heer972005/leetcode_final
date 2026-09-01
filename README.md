@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Heer972005/leetcode_final/tree/master/0485-max-consecutive-ones) |
 | [0654-maximum-binary-tree](https://github.com/Heer972005/leetcode_final/tree/master/0654-maximum-binary-tree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Heer972005/leetcode_final/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Heer972005/leetcode_final/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
