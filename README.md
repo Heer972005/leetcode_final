@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Heer972005/leetcode_final/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
