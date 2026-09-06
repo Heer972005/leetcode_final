@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
