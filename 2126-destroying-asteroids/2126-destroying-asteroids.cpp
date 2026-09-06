@@ -6,16 +6,19 @@ public:
         sort(asteroids.begin(),asteroids.end());
         long long currMass=mass;
         //reverse(asteroids.begin(),asteroids.end());
-        int k=0;
+        // int k=0;
         for(int i=0;i<asteroids.size();i++){
-            if(currMass>=asteroids[i]){
-                currMass+=asteroids[i];
-                k++;
+            if(currMass<asteroids[i]){
+                return false;
             }
+            // if(currMass>=asteroids[i]){
+                currMass+=asteroids[i];
+                // k++;
+            // }
         }
-        if(k==asteroids.size()){
+        // if(k==asteroids.size()){
             return true;
-        }
-        return false;
+        // }
+        // return false;
     }
 };
