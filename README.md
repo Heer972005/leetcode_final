@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Heer972005/leetcode_final/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
