@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Heer972005/leetcode_final/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Heer972005/leetcode_final/tree/master/0179-largest-number) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Heer972005/leetcode_final/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
