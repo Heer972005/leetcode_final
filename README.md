@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3537-fill-a-special-grid](https://github.com/Heer972005/leetcode_final/tree/master/3537-fill-a-special-grid) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Heer972005/leetcode_final/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Heer972005/leetcode_final/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Heer972005/leetcode_final/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Enumeration
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
