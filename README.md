@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Heer972005/leetcode_final/tree/master/0179-largest-number) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Heer972005/leetcode_final/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Heer972005/leetcode_final/tree/master/0134-gas-station) |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
