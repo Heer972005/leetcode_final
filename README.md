@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Heer972005/leetcode_final/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2439-minimize-maximum-of-array](https://github.com/Heer972005/leetcode_final/tree/master/2439-minimize-maximum-of-array) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Heer972005/leetcode_final/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Depth-First Search
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Heer972005/leetcode_final/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Heer972005/leetcode_final/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Heer972005/leetcode_final/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Heer972005/leetcode_final/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bucket Sort
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Heer972005/leetcode_final/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
