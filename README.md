@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Heer972005/leetcode_final/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Heer972005/leetcode_final/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Heer972005/leetcode_final/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
