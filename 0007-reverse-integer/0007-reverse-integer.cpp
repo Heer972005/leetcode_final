@@ -3,6 +3,7 @@ public:
     int reverse(int x) {
         int rev=0;
         //int n=abs(x);
+        // if  x>0 then will not work for negative numbers
         while(x!=0){
             int pop=x%10;
             if (rev > INT_MAX / 10 || (rev == INT_MAX / 10 && pop > 7))
