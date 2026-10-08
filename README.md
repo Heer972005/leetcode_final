@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Heer972005/leetcode_final/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/Heer972005/leetcode_final/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Heer972005/leetcode_final/tree/master/2139-minimum-moves-to-reach-target-score) |
