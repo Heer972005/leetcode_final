@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Heer972005/leetcode_final/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Heer972005/leetcode_final/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Heer972005/leetcode_final/tree/master/1837-sum-of-digits-in-base-k) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Heer972005/leetcode_final/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Heer972005/leetcode_final/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Heer972005/leetcode_final/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
