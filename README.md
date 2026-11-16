@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Heer972005/leetcode_final/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Heer972005/leetcode_final/tree/master/0191-number-of-1-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Heer972005/leetcode_final/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Heer972005/leetcode_final/tree/master/0179-largest-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Heer972005/leetcode_final/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Heer972005/leetcode_final/tree/master/0504-base-7) |
 | [1400-construct-k-palindrome-strings](https://github.com/Heer972005/leetcode_final/tree/master/1400-construct-k-palindrome-strings) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Heer972005/leetcode_final/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Heer972005/leetcode_final/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Heer972005/leetcode_final/tree/master/0204-count-primes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Heer972005/leetcode_final/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Heer972005/leetcode_final/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Heer972005/leetcode_final/tree/master/0507-perfect-number) |
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
