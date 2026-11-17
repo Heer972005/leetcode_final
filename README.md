@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Heer972005/leetcode_final/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Heer972005/leetcode_final/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Heer972005/leetcode_final/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2439-minimize-maximum-of-array](https://github.com/Heer972005/leetcode_final/tree/master/2439-minimize-maximum-of-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Heer972005/leetcode_final/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Heer972005/leetcode_final/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/Heer972005/leetcode_final/tree/master/1929-concatenation-of-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Heer972005/leetcode_final/tree/master/0410-split-array-largest-sum) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Heer972005/leetcode_final/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Heer972005/leetcode_final/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2439-minimize-maximum-of-array](https://github.com/Heer972005/leetcode_final/tree/master/2439-minimize-maximum-of-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Heer972005/leetcode_final/tree/master/3653-xor-after-range-multiplication-queries-i) |
