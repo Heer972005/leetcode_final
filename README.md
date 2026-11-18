@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Heer972005/leetcode_final/tree/master/0932-beautiful-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Heer972005/leetcode_final/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1260-shift-2d-grid](https://github.com/Heer972005/leetcode_final/tree/master/1260-shift-2d-grid) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Heer972005/leetcode_final/tree/master/1338-reduce-array-size-to-the-half) |
 | [1470-shuffle-the-array](https://github.com/Heer972005/leetcode_final/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Heer972005/leetcode_final/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Heer972005/leetcode_final/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Heer972005/leetcode_final/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Heer972005/leetcode_final/tree/master/0217-contains-duplicate) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Heer972005/leetcode_final/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/Heer972005/leetcode_final/tree/master/1400-construct-k-palindrome-strings) |
 | [1763-longest-nice-substring](https://github.com/Heer972005/leetcode_final/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heer972005/leetcode_final/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Heer972005/leetcode_final/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Heer972005/leetcode_final/tree/master/1338-reduce-array-size-to-the-half) |
 | [2126-destroying-asteroids](https://github.com/Heer972005/leetcode_final/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Heer972005/leetcode_final/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Heer972005/leetcode_final/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Heer972005/leetcode_final/tree/master/0912-sort-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Heer972005/leetcode_final/tree/master/1338-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Heer972005/leetcode_final/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Heer972005/leetcode_final/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Heer972005/leetcode_final/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Heer972005/leetcode_final/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/Heer972005/leetcode_final/tree/master/1400-construct-k-palindrome-strings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
