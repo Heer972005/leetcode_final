@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Heer972005/leetcode_final/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Heer972005/leetcode_final/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Heer972005/leetcode_final/tree/master/0169-majority-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Heer972005/leetcode_final/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Heer972005/leetcode_final/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Heer972005/leetcode_final/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Heer972005/leetcode_final/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Heer972005/leetcode_final/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Heer972005/leetcode_final/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Heer972005/leetcode_final/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Heer972005/leetcode_final/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Heer972005/leetcode_final/tree/master/0504-base-7) |
