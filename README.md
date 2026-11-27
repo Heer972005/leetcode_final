@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Heer972005/leetcode_final/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Heer972005/leetcode_final/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Heer972005/leetcode_final/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Heer972005/leetcode_final/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Heer972005/leetcode_final/tree/master/0055-jump-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Heer972005/leetcode_final/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Heer972005/leetcode_final/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Heer972005/leetcode_final/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Heer972005/leetcode_final/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heer972005/leetcode_final/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Heer972005/leetcode_final/tree/master/0455-assign-cookies) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Heer972005/leetcode_final/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Heer972005/leetcode_final/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Heer972005/leetcode_final/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Heer972005/leetcode_final/tree/master/0053-maximum-subarray) |
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Heer972005/leetcode_final/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Heer972005/leetcode_final/tree/master/0654-maximum-binary-tree) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Heer972005/leetcode_final/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Heer972005/leetcode_final/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Heer972005/leetcode_final/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
